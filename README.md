@@ -1,5 +1,5 @@
 # pandas-challenge
-Unit 4:PANDAS HOMEWORK 
+Unit 4: PANDAS HOMEWORK 
 
 Included in this repository is my solution for the Unit 4: Pandas Homework for the Georgia Tech Analytics Bootcamp.
 
